@@ -102,4 +102,4 @@ if __name__ == '__main__':
 
 最后我们启动`flask`服务，在浏览器中访问链接`http://127.0.0.1:5000`，就可以看到摄像头的实时视频数据了
 
-![flask-opencv-streaming](https://github.com/waws520waws/waws_flask/flask/images/微信图片_20210217115824.jpg)
+![flask-opencv-streaming](https://github.com/waws520waws/waws_flask/blob/main/flask/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210217115824.jpg)
